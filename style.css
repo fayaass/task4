@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 10px 5px 10px 5px;
+
+}
+
+span{
+    margin: 15px;
+    font-size: 20px;
+}
+
+.footer {
+    text-align: center;
+}
+
+#head {
+    text-align: center;
+    background-color: silver;
+    color: white;
+}
+
+.div1 {
+    border: 2px solid black;
+    margin: 5px;
+    background-color: rgba(100,100,100,0.5);
+}
+
+.div2 {
+    border: 2px solid black;
+    margin: 5px;
+    background-color: rgba(60,60,60,0.5);
+}
+
+.div3 {
+    border: 2px solid black;
+    margin: 5px;
+    background-color: rgba(10,10,10,0.5);
+}
+
